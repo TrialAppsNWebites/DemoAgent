@@ -164,4 +164,3 @@ cython_debug/
 .deployment
 .vscode/
 .streamlit/secrets.toml
-.chainlit/
