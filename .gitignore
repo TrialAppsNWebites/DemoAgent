@@ -164,3 +164,16 @@ cython_debug/
 .deployment
 .vscode/
 .streamlit/secrets.toml
+.chainlit/translations/bn.json
+.chainlit/translations/en-US.json
+.chainlit/translations/gu.json
+.chainlit/translations/he-IL.json
+.chainlit/translations/hi.json
+.chainlit/translations/ja.json
+.chainlit/translations/kn.json
+.chainlit/translations/ml.json
+.chainlit/translations/mr.json
+.chainlit/translations/nl.json
+.chainlit/translations/ta.json
+.chainlit/translations/te.json
+.chainlit/translations/zh-CN.json
